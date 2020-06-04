@@ -12,6 +12,12 @@ To see dataset I used, go to dataset folder and there is 4 dataset which are:
 3) full-1month.csv (full attribute of data for 1 month - rarely used)<br/>
 4) energy-1month-Wh (same as (2) but have unit - rarely used)<br/>
 
+**Reference:**
+1) https://dfrieds.com/math/confidence-intervals.html
+2) https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/sampling-distribution-of-the-sample-mean?modal=1
+3) https://medium.com/@thecodingcookie/hypothesis-testing-92b7270976de
+4) https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce
+
 ------------------------------------------------------------------------------------------------------------------------------<br/>
 
 **Data Set Information:**
