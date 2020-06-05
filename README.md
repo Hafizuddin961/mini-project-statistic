@@ -1,5 +1,6 @@
 # mini-project-statistic
-Project on Energy consumption in a household analysis <br/>
+Project on Energy consumption in a household analysis <br/><br/>
+***IF CANNOT OPEN Statistic_1m.ipynb DIRECTLY ON GITHUB, KINDLY USE GOOGLE COLAB***<br/><br/>
 Open source code Statistic_1m.ipynb in Google Colab (advisable using Google Chrome browser)<br/>
 Step 1 - Open link https://colab.research.google.com/notebooks/intro.ipynb#recent=true<br/>
 Step 2 - Choose GitHub column <br/>
