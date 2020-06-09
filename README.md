@@ -13,7 +13,29 @@ To see dataset I used, go to dataset folder and there is 4 dataset which are:
 3) full-1month.csv (full attribute of data for 1 month - rarely used)<br/>
 4) energy-1month-Wh (same as (2) but have unit - rarely used)<br/>
 
-**Reference:**
+# Mini Project Overview
+This is my group project on course Statistic For Engineering at UTM. This project mainly focus on 3 topic which are Sampling Distribution, Confidence Interval and Hypothesis Testing.<br/>
+Here the result example: <br/>
+
+## Raw Data
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/dataset-graph2.JPG)
+
+## Sampling Distribution:
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/population-distr.JPG)
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/n=2.JPG)
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/n=1000.JPG)
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/compare.JPG)
+
+## Confidence Interval:
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/standard%20normal.JPG)
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/CI%20variance%20known.JPG)
+
+## Hypothesis Test:
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/z-test%20100%200.05.JPG)
+![alt](https://github.com/Hafizuddin961/mini-project-statistic/blob/master/screenshot/z-test%20110%200.01.JPG)
+
+
+# Reference:
 1) https://dfrieds.com/math/confidence-intervals.html
 2) https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/sampling-distribution-of-the-sample-mean?modal=1
 3) https://medium.com/@thecodingcookie/hypothesis-testing-92b7270976de
